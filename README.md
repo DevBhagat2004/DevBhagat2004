@@ -1,14 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dev
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dev Bhagat
 ==================================================================================================================================
 
-Software Engineer | Developer | Data Analyst
+Software Engineer/Developer/Data Analyst
 ----------------------------------------
 
 I'm a curious and driven developer who enjoys learning new technologies and building things that make a difference. I have a strong interest in full-stack development and like working on projects that blend creativity with problem-solving. I'm always exploring new tools, frameworks, and ideas that can expand what's possible with technology.
 
 * 🌍  I'm based in Chicago, IL
 * ✉️  You can contact me at [bhagatdev515@gmail.com](mailto:bhagatdev515@gmail.com)
-* 🚀  I'm currently working on An application to track meteors and a tool to suggest credit cards based on user purchase
+* 🚀  I'm currently working on [An application to track meteors and a tool to suggest credit cards based on user purchase](http://uhu)
 * 🧠  I'm learning Distributed System Design, Machine Organization, Augmented Reality, Cloud Computing,....
 * 🤝  I'm open to collaborating on Projects related to education, accessibility, and innovative tech ideas
 
@@ -32,4 +32,6 @@ I'm a curious and driven developer who enjoys learning new technologies and buil
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/DevBhagat2004/College-Scope-P" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DevBhagat2004&repo=College-Scope-P&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/DevBhagat2004/College-Scope-P" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DevBhagat2004&repo=College-Scope-P&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/DevBhagat2004/Student_Performance_Prediction" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DevBhagat2004&repo=Student_Performance_Prediction&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/DevBhagat2004/EscapeTheMaze-" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DevBhagat2004&repo=EscapeTheMaze-&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
