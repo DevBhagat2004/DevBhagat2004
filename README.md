@@ -8,7 +8,7 @@ I'm a curious and driven developer who enjoys learning new technologies and buil
 
 * 🌍  I'm based in Chicago, IL
 * ✉️  You can contact me at [bhagatdev515@gmail.com](mailto:bhagatdev515@gmail.com)
-* 🚀  I'm currently working on [An application to track meteors and a tool to suggest credit cards based on user purchase](http://uhu)
+* 🚀  I'm currently working on An application to track meteors and a tool to suggest credit cards based on user purchase
 * 🧠  I'm learning Distributed System Design, Machine Organization, Augmented Reality, Cloud Computing,....
 * 🤝  I'm open to collaborating on Projects related to education, accessibility, and innovative tech ideas
 
