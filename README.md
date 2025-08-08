@@ -6,7 +6,7 @@ Software Engineer-Developer-Data Analyst
 
 I'm a curious and driven developer who enjoys learning new technologies and building things that make a difference. I have a strong interest in full-stack development and like working on projects that blend creativity with problem-solving. I'm always exploring new tools, frameworks, and ideas that can expand what's possible with technology.
 
-* 🌍  I'm based in Chicago, IL
+* 🌍  I'm based in Chicago, IL and open to relocation
 * ✉️  You can contact me at [bhagatdev515@gmail.com](mailto:bhagatdev515@gmail.com)
 * 🚀  I'm currently working on An application to track meteors and a tool to suggest credit cards based on user purchase
 * 🧠  I'm learning Distributed System Design, Machine Organization, Augmented Reality, Cloud Computing,....
