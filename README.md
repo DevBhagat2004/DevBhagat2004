@@ -1,8 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dev
 ==================================================================================================================================
 
-Computer Science Student
-----------------------------------------
 
 I'm a curious and driven developer who enjoys learning new technologies and building things that make a difference. I have a strong interest in full-stack development and like working on projects that blend creativity with problem-solving. I'm always exploring new tools, frameworks, and ideas that can expand what's possible with technology.
 
