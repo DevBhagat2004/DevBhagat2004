@@ -31,6 +31,5 @@ I'm a curious and driven developer who enjoys learning new technologies and buil
 
 <b>Top Repositories</b>
 
-[![College-Scope-P](https://github-readme-stats.vercel.app/api/pin/?username=DevBhagat2004&repo=College-Scope-P&theme=dark)](https://github.com/DevBhagat2004/College-Scope-P)
-
 <div width="100%" align="center"><a href="https://github.com/DevBhagat2004/College-Scope-P" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DevBhagat2004&repo=College-Scope-P&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/DevBhagat2004/UIC-Navigator" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DevBhagat2004&repo=UIC-Navigator&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /> <div width="100%" align="center"><a href="https://github.com/DevBhagat2004/Lyrics_Finder" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DevBhagat2004&repo=Lyrics_Finder&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<!--[![College-Scope-P](https://github-readme-stats.vercel.app/api/pin/?username=DevBhagat2004&repo=College-Scope-P&theme=dark)](https://github.com/DevBhagat2004/College-Scope-P)-->
