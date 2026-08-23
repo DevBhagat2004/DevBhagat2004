@@ -1,4 +1,4 @@
-# Hi, I'm [Dev Bhagat]
+# Hi, I'm Dev Bhagat
 
 I am a Bachelor's student in Computer Science at the University of Illinois Chicago. My background is in **Software Engineering**, where I focus on building applications that make processes more reliable and less error-prone, with some additional experience applying data science to support those goals. My coursework blends core software engineering concepts — Data Structures and Algorithms, computer algorithms, state management, concurrency, threading, and architectural patterns like MVC and MVVM — with hands-on project work that puts those concepts into practice.
 
@@ -34,5 +34,5 @@ I'm looking for roles where I can directly apply these skills to build, maintain
 
 ## Contact
 
-- LinkedIn: **[https://www.linkedin.com/in/hidevb]**
+- LinkedIn: **https://www.linkedin.com/in/hidevb**
 <!--[![College-Scope-P](https://github-readme-stats.vercel.app/api/pin/?username=DevBhagat2004&repo=College-Scope-P&theme=dark)](https://github.com/DevBhagat2004/College-Scope-P)-->
