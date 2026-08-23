@@ -11,7 +11,7 @@ I'm looking for roles where I can directly apply these skills to build, maintain
 ## Selected Highlights
 
 - Data and Software Developer — Elgin Community College (2025)
-- Software Engineering Intern (2026)
+- Software Engineering Intern - Nidec Mobility America Corporation (2026)
 - Built a RAG-based application applying AI and NLP concepts
 - Developed an Android application with database operations and MVVM architecture
 - Built a file tamper detection system using SHA-256 hashing
