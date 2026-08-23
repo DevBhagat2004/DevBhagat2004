@@ -20,7 +20,7 @@ I'm looking for roles where I can directly apply these skills to build, maintain
 
 ## Skills & Keywords
 
-**Languages:** Python, Kotlin/Java
+**Languages:** C, C++, Python, Kotlin, Java, Go, SQL, JavaScript 
 
 **Concepts:** Data Structures & Algorithms, Computer Algorithms, State Management, Concurrency, Threading, MVC, MVVM
 
