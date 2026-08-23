@@ -34,6 +34,5 @@ I'm looking for roles where I can directly apply these skills to build, maintain
 
 ## Contact
 
-- LinkedIn: **[your-linkedin-url]**
-- Email: **[your-email]**
+- LinkedIn: **[https://www.linkedin.com/in/hidevb]**
 <!--[![College-Scope-P](https://github-readme-stats.vercel.app/api/pin/?username=DevBhagat2004&repo=College-Scope-P&theme=dark)](https://github.com/DevBhagat2004/College-Scope-P)-->
